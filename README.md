@@ -6,6 +6,6 @@ Load dump:
 % mongorestore -d pornobrain iafd
 ```
 
-`RawPerson.content` is populated with html content of iafd performer page.
+`RawPerson.content` is populated with html content of iafd person page.
 
 See source code for more information: [pornobrain/iafd-recommend](http://github.com/pornobrain/iafd-recommend)
